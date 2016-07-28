@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-This script exposes the Livebox Play's API to edit the static leases table.
-
-I wrote it since the WebUI is bugged and sometimes does not display the full
-table static leases, or perform add/remove operations.
-"""
 
 import json
 import requests
